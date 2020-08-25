@@ -1,4 +1,4 @@
-update readme# Inventory Management App
+# Inventory Management App
 
 Simple Inventory App that lists products and their prices.
 
