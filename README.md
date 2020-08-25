@@ -3,7 +3,7 @@ update readme# Inventory Management App
 Simple Inventory App that lists products and their prices.
 
 <!---Deployed on Github Pages.
-Check it out [here](https://edward-rodriguez.github.io/angular-reddit/) -->
+Check it out [here](https://edward-rodriguez.github.io/inventory-app/) -->
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ To run this project, clone this repo and
 install it locally using npm:
 
 ```
-$ cd ./angular-reddit
+$ cd ./inventory-app
 $ npm install
 $ npm start
 ```
