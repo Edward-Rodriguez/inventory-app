@@ -2,7 +2,7 @@ import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-price-display',
-  templateUrl: `<div class='price-display'>\${{ price }}</div>`,
+  templateUrl: './price-display.component.html',
 })
 export class PriceDisplayComponent implements OnInit {
   @Input() price: number;
