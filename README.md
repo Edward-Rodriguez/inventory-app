@@ -1,9 +1,9 @@
-update readme# Inventory Management App
+# Inventory Management App
 
 Simple Inventory App that lists products and their prices.
 
-<!---Deployed on Github Pages.
-Check it out [here](https://edward-rodriguez.github.io/inventory-app/) -->
+Deployed on Github Pages.
+Check it out [here](https://edward-rodriguez.github.io/inventory-app/)
 
 ## Table of contents
 
